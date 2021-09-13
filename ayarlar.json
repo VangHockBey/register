@@ -1,0 +1,33 @@
+  {
+    "OKUMADANGECME" : "Aşağıdaki tamamen boş bırakılan yerlere ID girin OKUDUKTAN SONRA burayı silebilirsiniz + Olarak emojileri ID olarak koymazsanız çalışmaz",
+    "OKUMADANGECME2" : "TOKEN .env kısmında TOKEN yazan yerin karşısına tokeninizi yapıstırınız.",
+    "OKUMADANGECME3" : "BOT BAZEN HATA ÇIKARDIĞI İÇİN HOŞ GELDİN EMOJİLERİ KALDIRILMIŞTIR.",
+
+    "sahip" : "853265972185268264",
+    "prefix" : ".",
+    "footer" : "El_VangHockBey ❤️ Jesteria",
+
+    "tag" : "✩",
+    "etikettag" : "'",
+    "sembol" : "",
+  
+    "yetkiliRol" : ["885822377760550932"],
+    "vipRol" : "885822288019214336",
+    "boosterRol" : "BOOSTER ROL ID",
+    "kayıtsızRol" : "885822450036801536",
+    "erkekRol1" : "885822445758595103",
+    "erkekRol2" : "885822430818467851",
+    "kadınRol1" : "885822442013077555",
+    "kadınRol2" : "885822434765307964",
+
+    "tagRol" : "885822411981869106",
+    "tagLog" : "885822827205390336",
+
+    "SunucuID" : "885815354339758091",
+    "hosgeldinKanal" : "885822756103528498",
+    "sohbetKanal" : "885822845073125377", 
+    "botSesKanal" : "887012722913476678",
+  
+    "yes" : "887015256453419018",
+    "no" : "<a:jesteria_x:887015256264683591>"
+}
